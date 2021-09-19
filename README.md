@@ -1,2 +1,2 @@
-# control-schemes
+# Control-Schemes
 Different Control Strategies
